@@ -1,20 +1,20 @@
 # Traffic-Sign-Classification
 
+Link for the data -  https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
 **********************************************
 The German Traffic Sign Recognition Benchmark
 **********************************************
 -- For this project we have used The German Traffic Sign dataset.
+-- Download files (GTSRB_Final_Test_Images.zip) and (GTSRB_Final_Training_Images.zip)
 -- In the Training dataset, there are a total of 43 categories (classes) and 39,209 .ppm images
 -- The Test set consists of 12,630 .ppm images.
 -- All of the code i.e. Exploratory Analysis, Data Pre-Processing and Model Implementation have been executed in one single .ipynb file.
--- The .zip file contains one ML_CW2 folder and one .ipynb file.
--- The ML_CW2 folder contains five files in total -- Training Set, Testing Set, PictureOutput, Tmp file and a Test .csv file
 
 **********************************************
 Accessing The Dataset
 **********************************************
--- In order to run the .ipynb file directly, please upload the ML_CW2 file in your Google Drive. 
--- If the first suggestion is not an option, then necessary changes will have to be made in the code (change directories)
+-- In order to run the .ipynb file, download the above GT_final_test.csv in the folder which contains unzipped GTSRB_Final_Test_Images and GTSRB_Final_Training_Images
+-- Make 2 empty folders in the same folder which now has the training images, testing images and .csv file, which are "Tmp_Data" and "pictureOutput" 
 
 **********************************************
 About the Project
